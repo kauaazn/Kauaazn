@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Kauã Reis!
+🎓 **Computer Science student** — 1st semester  
+💡 Learning **programming, logic, and GitHub basics**  
+🚀 Building my foundation in **technology and development**
 
-<!--
-**kauaazn/Kauaazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📘 What you’ll find here:
+- 🧠 **College projects** — exercises and assignments from my degree  
+- ⚙️ **Personal projects** — experiments and small applications  
+- 📚 **Courses & studies** — extra learning materials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Goals
+Keep improving every day and document my growth as a developer.
+
+---
+
+📫 **Contact:** kauaduda2014@gmail.com
+https://www.linkedin.com/in/kauã-reis-06b99137b
