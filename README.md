@@ -1,21 +1,18 @@
-## Hi, I'm Kauã Reis!
-🎓 **Computer Science student** — 1st semester  
-💡 Learning **programming, logic, and GitHub basics**  
-🚀 Building my foundation in **technology and development**
+# Hi! I'm Kauã Reis, a Computer Science Student 🎓
+---
+Currently specializing in:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) 
 
 ---
 
-### 📘 What you’ll find here:
-- 🧠 **College projects** — exercises and assignments from my degree  
-- ⚙️ **Personal projects** — experiments and small applications  
-- 📚 **Courses & studies** — extra learning materials
+### 📁 Structure
+
+This GitHub contains my university assignments and personal coding projects, kept simple and organized.
 
 ---
 
-### 🌱 Goals
-Keep improving every day and document my growth as a developer.
+### 📫 Connect
 
----
-
-📫 **Contact:** kauaduda2014@gmail.com
-https://www.linkedin.com/in/kauã-reis-06b99137b
+[LinkedIn Profile](https://www.linkedin.com/in/kauã-reis-06b99137b) | kauaduda2014@gmail.com
