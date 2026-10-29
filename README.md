@@ -1,25 +1,19 @@
-# Hi! I'm Kauã Reis, a Computer Science Student 🎓
----
-Currently specializing in:
+# Hi, I'm Kauã Reis 👋
 
-**Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Computer Science student in Belo Horizonte, Brazil.
 
-Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I work on software development projects at Meep Soluções and CODE, using .NET, React, Spring, Git, and GitHub. I’m currently strengthening my Java and object-oriented programming foundations, with a focus on backend development and software engineering.
 
----
+## Featured projects
 
-### 📁 Structure
+- [CodeCast API](https://github.com/kauaazn/codecast-api) — podcast studio booking API with a React client.
+- [Java Backend Study Roadmap](https://github.com/kauaazn/kaua-roadmap) — an interactive 24-week learning plan.
+- [Algorithms and Data Structures](https://github.com/kauaazn/Algorithms-and-Data-Structures) — exercises and projects from my coursework.
 
-This GitHub contains my university assignments and personal coding projects, kept simple and organized.
+## Current focus
 
----
+Java · Backend Development · Spring · React · .NET
 
-### 📫 Connect
+## Connect
 
-[LinkedIn Profile](https://www.linkedin.com/in/kauã-reis-06b99137b) | kauaduda2014@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-reis-06b99137b/)
