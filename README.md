@@ -1,18 +1,18 @@
 # Hi, I'm Kauã Reis 👋
 
-Computer Science student in Belo Horizonte, Brazil.
+Computer Science student based in Belo Horizonte, Brazil, focused on backend development with Java and Spring Boot, and building web interfaces with React.
 
-I work on software development projects at Meep Soluções and CODE, using .NET, React, Spring, Git, and GitHub. I’m currently strengthening my Java and object-oriented programming foundations, with a focus on backend development and software engineering.
+I work on software development projects at Meep Soluções and CODE. My experience includes .NET, React, Git, and GitHub, and I’m currently deepening my Java, object-oriented programming, and backend engineering skills.
 
 ## Featured projects
 
-- [CodeCast API](https://github.com/kauaazn/codecast-api) — podcast studio booking API with a React client.
-- [Java Backend Study Roadmap](https://github.com/kauaazn/kaua-roadmap) — an interactive 24-week learning plan.
-- [Algorithms and Data Structures](https://github.com/kauaazn/Algorithms-and-Data-Structures) — exercises and projects from my coursework.
+- [CodeCast API](https://github.com/kauaazn/codecast-api) — API for booking podcast studios, with a React client. I’m developing this project to practice backend design and end-to-end product development.
+- [Java Backend Study Roadmap](https://github.com/kauaazn/kaua-roadmap) — an interactive 24-week plan for my Java backend studies.
+- [Algorithms and Data Structures](https://github.com/kauaazn/Algorithms-and-Data-Structures) — coursework exercises and projects focused on core computer science concepts.
 
 ## Current focus
 
-Java · Backend Development · Spring · React · .NET
+Java · Spring Boot · Backend Development · React · Software Engineering
 
 ## Connect
 
