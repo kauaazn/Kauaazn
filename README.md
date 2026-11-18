@@ -46,7 +46,8 @@ Git · GitHub · Docker · GitHub Actions · AWS · Postman · Swagger · JUnit 
 
 ## Education & Certifications
 
-- Computer Science — Centro Universitário Dom Helder Câmara
+- Java OOP - Udemy
+- Java Backend + IA - Dio/Itaú
 - AWS Academy Graduate — Cloud Foundations
 - AWS Academy Graduate — Cloud Architecting
 
