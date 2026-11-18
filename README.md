@@ -1,19 +1,58 @@
 # Hi, I'm Kauã Reis 👋
 
-Computer Science student based in Belo Horizonte, Brazil, focused on backend development with Java and Spring Boot, and building web interfaces with React.
+**Fullstack Developer | Backend-focused**
 
-I work on software development projects at Meep Soluções and CODE. My experience includes .NET, React, Git, and GitHub, and I’m currently deepening my Java, object-oriented programming, and backend engineering skills.
+Computer Science student based in Belo Horizonte, Brazil, with hands-on experience building web applications, REST APIs, and backend systems.
 
-## Featured projects
+Currently working at **Meep** as a Software Development Intern and at **CODE Jr.** as a Fullstack Developer, contributing to real-world projects using Java, Spring Boot, C#/.NET, React, and TypeScript.
 
-- [CodeCast API](https://github.com/kauaazn/codecast-api) — API for booking podcast studios, with a React client. I’m developing this project to practice backend design and end-to-end product development.
-- [Java Backend Study Roadmap](https://github.com/kauaazn/kaua-roadmap) — an interactive 24-week plan for my Java backend studies.
-- [Algorithms and Data Structures](https://github.com/kauaazn/Algorithms-and-Data-Structures) — coursework exercises and projects focused on core computer science concepts.
+I’m interested in backend engineering, software architecture, database design, and building reliable software.
 
-## Current focus
+## Experience
 
-Java · Spring Boot · Backend Development · React · Software Engineering
+- **Meep Soluções** — Software Development Intern
+  - Developing web applications and features using C#/.NET, Next.js, React, TypeScript, and MySQL.
+  - Working with API integrations, payment flows, and end-to-end testing with Playwright.
+
+- **CODE Jr.** — Fullstack Developer
+  - Building REST APIs using Java, Spring Boot, and PostgreSQL.
+  - Working with domain validation, pagination, soft delete, and multi-tenant architecture.
+
+## Featured Projects
+
+- **[Driver Logbook](https://github.com/kauaazn/driver-logbook)** — Fullstack fleet management application with Java, Spring Boot, PostgreSQL, Next.js, and TypeScript. Includes business rules, automated tests, and CI with GitHub Actions.
+
+- **[CodeCast API](https://github.com/kauaazn/codecast-api)** — REST API for podcast studio scheduling, built with Java 21 and Spring Boot. Features booking conflict detection, layered architecture, DTOs, and Swagger documentation.
+
+- **[Course Schedule](https://github.com/kauaazn/course-schedule)** — React and TypeScript application for creating and comparing academic schedules, with conflict detection and CSV export.
+
+## Tech Stack
+
+**Backend**
+  
+Java · Spring Boot · Spring Data JPA · C# · .NET · REST APIs
+
+**Frontend**
+
+React · Next.js · TypeScript · JavaScript
+
+**Databases**
+
+PostgreSQL · MySQL · MariaDB · SQL
+
+**Tools & DevOps**
+
+Git · GitHub · Docker · GitHub Actions · AWS · Postman · Swagger · JUnit · Playwright
+
+## Education & Certifications
+
+- Computer Science — Centro Universitário Dom Helder Câmara
+- AWS Academy Graduate — Cloud Foundations
+- AWS Academy Graduate — Cloud Architecting
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-reis-06b99137b/)
+- **Portfolio:** [kauaareis.vercel.app](https://kauaareis.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/kauareiss](https://www.linkedin.com/in/kauareiss/)
+- **Email:** [kaua.areis10@gmail.com](mailto:kaua.areis10@gmail.com)
+- **GitHub:** [github.com/kauaazn](https://github.com/kauaazn)
