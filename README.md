@@ -1,6 +1,6 @@
 # Hi, I'm Kauã Reis 👋
 
-**Fullstack Developer | Backend-focused**
+**Software Engineer | Backend-focused**
 
 Computer Science student based in Belo Horizonte, Brazil, with hands-on experience building web applications, REST APIs, and backend systems.
 
@@ -30,7 +30,7 @@ I’m interested in backend engineering, software architecture, database design,
 
 **Backend**
   
-Java · Spring Boot · Spring Data JPA · C# · .NET · REST APIs
+ C# · .NET · Java · Spring Boot · Spring Data JPA · REST APIs
 
 **Frontend**
 
@@ -38,11 +38,11 @@ React · Next.js · TypeScript · JavaScript
 
 **Databases**
 
-PostgreSQL · MySQL · MariaDB · SQL
+PostgreSQL · MySQL · MariaDB · SQL · Microsoft SQL Server
 
 **Tools & DevOps**
 
-Git · GitHub · Docker · GitHub Actions · AWS · Postman · Swagger · JUnit · Playwright
+Git · GitHub · Docker · GitHub Actions · AWS · Postman · Swagger · Playwright
 
 ## Education & Certifications
 
